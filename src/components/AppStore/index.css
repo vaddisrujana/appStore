@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.background {
+  text-align: center;
+  background-image: linear-gradient(to bottom, #ffffff, #fff1eb, #ace0f9);
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Bree Serif';
+}
+.tab-container {
+  display: flex;
+  justify-content: center;
+}
+.image {
+  height: 30px;
+}
+.back {
+}
+.search {
+  border-width: 0;
+}
